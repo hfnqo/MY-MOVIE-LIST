@@ -1,0 +1,12 @@
+.mode {
+  color: gray;
+  cursor: pointer;
+}
+
+.mode:hover {
+  color: black;
+}
+
+.mode-toggle {
+  color: black;
+}
